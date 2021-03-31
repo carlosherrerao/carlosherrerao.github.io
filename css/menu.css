@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background: #000;
+  padding-top: 10px;
 }
 .content {
   max-width: 500px;
