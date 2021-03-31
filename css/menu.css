@@ -3,8 +3,21 @@ body {
   background: #000;
   padding-top: 10px;
 }
-.content {
-  max-width: 500px;
+#Informacion_Contacto {
+  max-width: 1620px;
+  margin: auto;
+  background: white;
+  padding: 0;
+
+}
+#foto{
+  width: 30%;
+}
+#informacion{
+  width: 70%;
+}
+nav {
+  max-width: 1320px;
   margin: auto;
   background: white;
   padding: 0;
