@@ -6,11 +6,8 @@ body {
   background: #000;
   //padding-top: 10px;
 }
-h1 {
-  font-family: myFirstFont;
-  font-size: 24px;
-  margin: 20px;
-}
+
+
 #contenedor{
   width: 70%;
   height: 100%;
@@ -39,8 +36,18 @@ float: left;
   height: 100%;
   float: left;
   background: red;
+
 }
-img.alineadoTextoImagenCentro{
-  vertical-align: middle;
-  /* Ojo vertical-align: text-middle no existe*/
+#nombre{
+  padding-left: 20px;
+  padding-top: 20px;
+  font-family: myFirstFont;
+  font-size: 24px;
+}
+#contacto{
+  margin:auto;
+  padding-left:  20px;
+  font-family: myFirstFont;
+  font-size: 22px;
+  height:37px
 }
