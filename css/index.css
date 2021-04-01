@@ -50,4 +50,27 @@ float: left;
   font-family: myFirstFont;
   font-size: 22px;
   height:37px
+
+}
+.icono{
+  margin:auto;
+  padding: auto;
+  height: 100%;
+  float: left;
+  margin-right: 5px;
+}
+.texto{
+  margin:auto;
+  padding: auto;
+  height: 100%;
+  float: left;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+#telefono{
+  vertical-align: middle;
+}
+#correo{
+  vertical-align: middle;
 }
