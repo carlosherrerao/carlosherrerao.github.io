@@ -1,24 +1,6 @@
-body {
-  margin: 0;
-  background: #000;
-  padding-top: 10px;
-}
-#Informacion_Contacto {
-  max-width: 1620px;
-  margin: auto;
-  background: white;
-  padding: 0;
-
-}
-#foto{
-  width: 30%;
-}
-#informacion{
-  width: 70%;
-}
 nav {
-  max-width: 1320px;
   margin: auto;
+  margin-top: 10px;
   background: white;
   padding: 0;
 }
@@ -38,6 +20,7 @@ ul.topnav li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: myFirstFont;
 }
 
 ul.topnav li a:hover:not(.active) {background-color: #111;}
